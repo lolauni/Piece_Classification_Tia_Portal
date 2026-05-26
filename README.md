@@ -31,8 +31,19 @@ The control architecture is fully modular and implemented using the following in
 
 ---
 
+## 🎥 Project Demonstration & Code
+
+To see the fully integrated system in action, including the synchronization between the Distributing and Testing stations, check out our demonstration video:
+
+https://youtu.be/iKDXJ2vswZg
+
+Additionally, since PLC project files require specific software to be opened, we have exported the complete control logic (SFC/Grafcet and routines) as a readable document. You can review the full logic here:
+* [📄 View Full Code (PDF)](./CODE.pdf)
+
+---
+
 ## 📁 Repository Structure
 
-* Everything related to this project is located in the [`integrated project`](./integrated%20project) folder, including the PLC code blocks and sequence configurations.
+* Everything related to this project is located in the [`integrated project`](./Integrated_Project.zip) folder, including the PLC code blocks and sequence configurations.
 
 ---
